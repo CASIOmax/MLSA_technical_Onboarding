@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/backastranaut.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Image of an astranaut from the back";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Omnifood: A healthy meal delivered to your door, every single day",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Omnifood a single page website built as a dummy project. Omnifood is a fictional company focused on providing AI-based meals through a subscription service",
+    url: "https://omnifood-casiomax.netlify.app/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Domino's Cashier GUI Project! 🍕 ",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This Java Swing-based application revolutionizes the cashier's role at Domino's restaurants with modern graphical user interfaces",
+    url: "https://github.com/CASIOmax/dominos-ordering-system",
   },
   {
-    title: "My Resume Site",
+    title: "JARVIS AI virtual assistant SRS",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "An SRS document and a prototype for that Jarvis Artificial Intelligence Virtual assistant",
+    url: "https://www.linkedin.com/in/sajjadahmad-casiomax/details/projects/1635534072400/single-media-viewer/?profileId=ACoAACumJa8BiWKDI3fr5F0F2vsMRGRNFrxPa5c",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Graphics Designing Portofolio",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This protofolio is specifically related to my graphics designing, contains all the projects I have worked on",
+    url: "https://drive.google.com/file/d/1U4XG7ExLirbocSMkqPEY-pila9vQK9PO/view?usp=sharing",
   },
 ];
 
